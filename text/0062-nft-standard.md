@@ -1,3 +1,5 @@
+<img width="1206" height="2622" alt="IMG_3032" src="https://github.com/user-attachments/assets/26d00b74-2758-4770-8f40-b7f26d6651ef" />
+<img width="1206" height="2622" alt="IMG_3033" src="https://github.com/user-attachments/assets/386c0d9d-d5de-4822-915a-6adc482c8d67" />
 - **TEP**: [62](https://github.com/ton-blockchain/TEPs/pull/2)
 - **title**: NFT Standard
 - **status**: Active
